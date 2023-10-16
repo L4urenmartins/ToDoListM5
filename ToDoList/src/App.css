@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@100&display=swap');
+
+body{
+  font-family: 'Ysabeau SC', sans-serif;
+  background-color: #99c59c;
+  padding:30px;
+  color: #af2674;
+ 
+}
+
+.app {
+max-width: 600px;
+margin: 0 auto 300px;
+background-color: #ad7d98;
+opacity: 8;
+padding: 20px 30px;
+border-radius: 10px;
+}
+
+.h1 {
+text-align: center;
+
+}
+
+.h2{
+  margin-bottom: 10px;
+}
+
+.p{
+  margin: 10px 0;
+}
+
+.input{
+box-sizing: border-box;
+}
+
+button{
+background-color: #af2674;
+color: #99c59c;
+margin-right: 10px;
+padding: 5px 10px;
+border: none;
+border-radius: 5px;
+cursor:pointer;
+opacity: .8;
+transition: 0.3s;
+}
+
+.button :hover{
+  opacity: 1;
+
+}
+
+.todo-list{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: solid #af2674;
+
+}
+
+.todo {
+background-color: #99c59c;
+box-shadow: 0 0 10px rgba(58, 37, 57, 0.1);
+padding: 10px;
+margin-bottom: 10px;
+border-radius: 5px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.todo-form {
+padding-bottom: 1.5rem;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+  color: #af2674;
+
+}
+
+.select,
+.input {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #af2674;
+  border-radius: 4px;
+
+}

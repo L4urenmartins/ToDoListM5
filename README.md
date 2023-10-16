@@ -1,6 +1,6 @@
 # Minha Lista de Tarefas
 
-Este é um aplicativo simples de lista de tarefas desenvolvido em React com o Vite. Ele permite que você crie, edite, marque como concluídas, pesquise e filtre tarefas.
+Este é um aplicativo simples de lista de tarefas desenvolvido em React com o Vite. Ele permite que você crie, edite, marque como concluídas.
 
 ## Instalação
 
@@ -25,8 +25,7 @@ O aplicativo estará disponível em http://localhost:3000.
 Funcionalidades
 Adicionar uma nova tarefa.
 Marcar tarefas como concluídas.
-Filtrar tarefas por "Todas", "Concluídas" ou "Ativas".
-Pesquisar tarefas.
+
 
 Tecnologias Utilizadas
 React
